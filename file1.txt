@@ -1,2 +1,3 @@
 the content of the file has been changed
 I added another line
+Add another line and stage the edit
